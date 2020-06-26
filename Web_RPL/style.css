@@ -1,7 +1,6 @@
 .wrap{
-	background: blue;
+	background: black;
 	width: 100%;
-	height: 100%;
 }
  
 /*bagian header*/
@@ -12,25 +11,6 @@
 }
  
 /*akhir header*/
- 
-/*bagian menu*/
-.wrap .menu{
-	background: yellow;
-}
- 
-.wrap .menu ul{
-	padding: 0;
-	margin: 0;
-	background: yellow;
-	overflow: hidden;
-}
- 
-.wrap .menu ul li{
-	float: left;
-	list-style-type: none;
-	padding: 10px;
-}
-/*akhir menu*/
  
 .clear{
 	clear: both;
@@ -58,5 +38,6 @@
  
 .wrap .footer{
 	width: 100%;
-	padding: 10px;
+	text-align: center;
+	color: white;
 }
